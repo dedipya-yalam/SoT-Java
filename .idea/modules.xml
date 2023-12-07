@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SoT Training/CalcEngine/CalcEngine.iml" filepath="$PROJECT_DIR$/SoT Training/CalcEngine/CalcEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SoT Java.iml" filepath="$PROJECT_DIR$/.idea/SoT Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoT Training/SoT Training.iml" filepath="$PROJECT_DIR$/SoT Training/SoT Training.iml" />
+    </modules>
+  </component>
+</project>
